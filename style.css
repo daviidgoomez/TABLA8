@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+
+caption.tablauno{
+    font-weight: bold;
+
+}
+table.t1{
+    border: red 1px solid;
+    margin: 25px;
+}
+caption.tablados{
+    font-weight: bold;
+}
+table.t2{
+    border: red 1px solid;
+    margin: 25px;
+}
+td.a{
+    border: blue 1px solid;
+    width: auto;
+}
+table.t3{
+    border: green 1px solid;
+    width: 500px;
+}
+caption.tabla3{
+    font-weight: bold;
+}
+table.t3 td {
+    border: green 1px solid;
+    text-align: center;
+
+}
